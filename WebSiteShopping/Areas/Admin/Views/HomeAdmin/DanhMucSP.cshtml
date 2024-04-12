@@ -1,0 +1,257 @@
+﻿@using WebSiteShopping.Models
+@{
+    ViewData["Title"] = "DanhMucSP";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@model Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable<WebSiteShopping.Models.Product>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/cssAdmin/DanhMucSp.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="removeResult"></div>
+    <div class="container">
+        <h1>Danh mục sản phẩm</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Tên</th>
+                    <th>Giá</th>
+                    <th>Màu sắc</th>
+                    <th>Cân nặng</th>
+                    <th>Giới tính</th>
+                    <th>
+                        <button id="AddFormButton" class="btn btn-primary">Thêm sản phẩm</button>
+                        <div id="AddForm" class="formContent">
+                            <h2>Thêm sản phẩm</h2>
+                            <div id="resultMessage"></div>
+                            <form id="AddformAJAX">
+                                <div>
+                                    <label>ID:</label>
+                                    <input id="ProductAddId" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Tên sản phẩm:</label>
+                                    <input id="ProductAddName" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Giá:</label>
+                                    <input id="ProductAddPrice" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Ảnh:</label>
+                                    <input id="ProductAddImage" type="file" accept=".png" required />
+                                </div>
+                                <div>
+                                    <label>Màu sắc:</label>
+                                    <input id="ProductAddColor" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Cân nặng:</label>
+                                    <input id="ProductAddWeight" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Loài:</label>
+                                    <input id="ProductAddSpecies" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Giới tính:</label>
+                                    <input id="ProductAddGender" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Thông tin:</label>
+                                    <textarea id="ProductAddInfo" required></textarea>
+                                </div>
+                                <div>
+                                    <label>Số lượng:</label>
+                                    <input id="ProductAddStock" type="text" required />
+                                </div>
+                                <div class="btn-group">
+                                    <button id="submidAddform" type="button" class="btn btn-primary">Thêm</button>
+                                    <button id="CloseAddForm" type="button" class="btn btn-secondary">Đóng</button>
+                                </div>
+                            </form>
+                        </div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Name</td>
+                        <td>@item.Price</td>
+                        <td>@item.Color</td>
+                        <td>@item.Weight kg</td>
+                        <td>@item.Gender</td>
+                        <td>
+                            <button class="EditFormButton btn btn-primary">Sửa</button>
+                            <div class="formContent">
+                                <h2>Sửa sản phẩm</h2>
+                                <div id="EditresultMessage"></div>
+                                <form action="Editsp" enctype="multipart/form-data">
+                                    <div>
+                                        <label>Tên sản phẩm:</label>
+                                        <input type="text" value="@item.Name" class="ProductEditName" required />
+                                    </div>
+                                    <div>
+                                        <label>Giá:</label>
+                                        <input type="text" value="@item.Price" class="ProductEditPrice" required />
+                                    </div>
+                                    <div>
+                                        <label>Ảnh:</label>
+                                        <input accept=".png" type="file" class="ProductEditImage" />
+                                        <img src="~/ProductImg/@item.Image" alt="Ảnh sản phẩm" width="100" />
+                                    </div>
+                                    <div>
+                                        <label>Màu sắc:</label>
+                                        <input type="text" value="@item.Color" class="ProductEditColor" required />
+                                    </div>
+                                    <div>
+                                        <label>Cân nặng:</label>
+                                        <input type="text" value="@item.Weight" class="ProductEditWeight" required />
+                                    </div>
+                                    <div>
+                                        <label>Loài:</label>
+                                        <input type="text" value="@item.Species" class="ProductEditSpecies" required />
+                                    </div>
+                                    <div>
+                                        <label>Giới tính:</label>
+                                        <input type="text" value="@item.Gender" class="ProductEditGender" required />
+                                    </div>
+                                    <div>
+                                        <label>Thông tin:</label>
+                                        <textarea class="ProductEditInfo" required>@item.Info</textarea>
+                                    </div>
+                                    <div>
+                                        <label>Số lượng:</label>
+                                        <input type="text" value="@item.Stock" class="ProductEditStock" required />
+                                    </div>
+                                    <input type="text" value="@item.Id" class="ProductEditId" style="display: none;" />
+                                    <div class="btn-group">
+                                        <button class="submidEditform" type="button" class="btn btn-primary">Lưu</button>
+                                        <button type="button" class="CloseEditForm" class="btn btn-secondary">Đóng</button>
+                                    </div>
+                                </form>
+                            </div>
+                            <form action="Removesp" method="post" style="display: inline;">
+                                <button type="submit" name="id" value="@item.Id" class="btn btn-danger">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div id="overlay"></div>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script>
+        document.getElementById("AddFormButton").addEventListener("click", function () {
+            document.getElementById("AddForm").style.display = "block";
+            document.getElementById("overlay").style.display = "block";
+        });
+
+        document.getElementById("CloseAddForm").addEventListener("click", function () {
+            document.getElementById("AddForm").style.display = "none";
+            document.getElementById("overlay").style.display = "none";
+        });
+
+        document.querySelectorAll(".EditFormButton").forEach(function (button) {
+            button.addEventListener("click", function () {
+                var editForm = this.nextElementSibling;
+                editForm.style.display = "block";
+                document.getElementById("overlay").style.display = "block";
+            });
+        });
+
+        document.querySelectorAll(".CloseEditForm").forEach(function (button) {
+            button.addEventListener("click", function () {
+                var editForm = this.closest(".EditForm");
+                editForm.style.display = "none";
+                document.getElementById("overlay").style.display = "none";
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('#submidAddform').click(function () {
+                var tid = $('#ProductAddId').val();
+                var tname = $('#ProductAddName').val();
+                var tprice = $('#ProductAddPrice').val();
+                var timage = $('#ProductAddImage').val();
+                var tcolor = $('#ProductAddColor').val();
+                var tweight = $('#ProductAddWeight').val();
+                var tspecies = $('#ProductAddSpecies').val();
+                var tgender = $('#ProductAddGender').val();
+                var tinfo = $('#ProductAddInfo').val();
+                var tstock = $('#ProductAddStock').val(); 
+
+                var formData = new FormData();
+                formData.append('id', tid);
+                formData.append('name', tname);
+                formData.append('price', tprice);
+                formData.append('image', $('#ProductAddImage')[0].files[0]);
+                formData.append('color', tcolor);
+                formData.append('weight', tweight);
+                formData.append('species', tspecies);
+                formData.append('gender', tgender);
+                formData.append('info', tinfo);
+                formData.append('stock', tstock);
+
+                $.ajax({
+                    url: '@Url.Action("AddSp", "HomeAdmin", new { area = "Admin" })',
+                    type: 'POST',
+                    data: formData, 
+                    processData: false,
+                    contentType: false,
+                    success: function (data) {
+                        console.log(data.message);
+                        $('#resultMessage').text(data.message);
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(error);
+                    }
+                });
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('.submidEditform').click(function () {
+                var formData = new FormData();
+                formData.append('id', $('.ProductEditId').val());
+                formData.append('name', $('.ProductEditName').val());
+                formData.append('price', $('.ProductEditPrice').val());
+                formData.append('image', $('.ProductEditImage')[0].files[0]);
+                formData.append('color', $('.ProductEditColor').val());
+                formData.append('weight', $('.ProductEditWeight').val());
+                formData.append('species', $('.ProductEditSpecies').val());
+                formData.append('gender', $('.ProductEditGender').val());
+                formData.append('info', $('.ProductEditInfo').val());
+                formData.append('stock', $('.ProductEditStock').val());
+
+                $.ajax({
+                    url: '@Url.Action("EditSp", "HomeAdmin", new { area = "Admin" })',
+                    type: 'POST',
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function (data) {
+                        console.log(data.message);
+                        $('#EditresultMessage').text(data.message);
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+﻿@{
+    ViewData["Title"] = "DanhMucTK";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@model Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable<WebSiteShopping.Models.User>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="~/cssAdmin/DanhMucTk.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="container">
+        <h1>Danh mục tài khoản</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Email</th>
+                    <th>Mật khẩu</th>
+                    <th>Vai trò</th>
+                    <th>
+                        <button id="AddFormButton" class="btn btn-primary">Thêm tài khoản</button>
+                        <div id="AddForm" class="formContent">
+                            <h2>Thêm tài khoản</h2>
+                            <div id="resultMessage"></div>
+                            <form id="AddformAJAX">
+                                <div>
+                                    <label>Email:</label>
+                                    <input id="UserAddEmail" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Mật khẩu:</label>
+                                    <input id="UserAddPass1" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Lặp lại mật khẩu:</label>
+                                    <input id="UserAddPass2" type="text" required />
+                                </div>
+                                <div>
+                                    <label>Vai trò:</label>
+                                    <input id="UserAddRole" type="text" required />
+                                </div>
+                            
+                                <div class="btn-group">
+                                    <button id="submidAddform" type="button" class="btn btn-primary">Thêm</button>
+                                    <button id="CloseAddForm" type="button" class="btn btn-secondary">Đóng</button>
+                                </div>
+                            </form>
+                        </div>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Email</td>
+                        <td>@item.Password</td>
+                        <td>@item.Role</td>
+                        <td>
+                            <button class="EditFormButton btn btn-primary">Sửa</button>
+                            <div class="EditForm formContent">
+                                <h2>Sửa tài khoản</h2>
+                                <form action="Edittk" method="post">
+                                    <div>
+                                        <label>Mật khẩu:</label>
+                                        <input type="text" value="@item.Password" name="password" required />
+                                    </div>
+                                    <div>
+                                        <label>Vai trò:</label>
+                                        <input type="text" value="@item.Role" name="role" required />
+                                    </div>
+                                    <div class="btn-group">
+                                        <button name="email" value="@item.Email" type="submit" class="btn btn-primary">Lưu</button>
+                                        <button type="button" class="CloseEditForm btn btn-secondary">Đóng</button>
+                                    </div>
+                                </form>
+                            </div>
+                            <form action="Removetk" method="post" style="display: inline;">
+                                <button type="submit" name="email" value="@item.Email" class="btn btn-danger">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div id="overlay"></div>
+    <script src="~/lib/jquery/jquery.min.js"></script>
+    <script>
+        document.getElementById("AddFormButton").addEventListener("click", function () {
+            document.getElementById("AddForm").style.display = "block";
+            document.getElementById("overlay").style.display = "block";
+        });
+
+        document.getElementById("CloseAddForm").addEventListener("click", function () {
+            document.getElementById("AddForm").style.display = "none";
+            document.getElementById("overlay").style.display = "none";
+        });
+
+        document.querySelectorAll(".EditFormButton").forEach(function (button) {
+            button.addEventListener("click", function () {
+                var editForm = this.nextElementSibling;
+                editForm.style.display = "block";
+                document.getElementById("overlay").style.display = "block";
+            });
+        });
+
+        document.querySelectorAll(".CloseEditForm").forEach(function (button) {
+            button.addEventListener("click", function () {
+                var editForm = this.closest(".EditForm");
+                editForm.style.display = "none";
+                document.getElementById("overlay").style.display = "none";
+            });
+        });
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('#submidAddform').click(function () {
+                var temail = $('#UserAddEmail').val();
+                var tpass1 = $('#UserAddPass1').val();
+                var tpass2 = $('#UserAddPass2').val();
+                var trole = $('#UserAddRole').val();
+
+                $.ajax({
+                    url: '@Url.Action("AddTk", "HomeAdmin", new { area = "Admin" })',
+                    type: 'POST',
+                    data: { email: temail, password1: tpass1, password2: tpass2, role: trole },
+                    success: function (data) {
+                        console.log(data.message);
+                        $('#resultMessage').text(data.message);
+                    },
+                    error: function (xhr, status, error) {
+                        console.log(error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

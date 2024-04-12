@@ -1,0 +1,1829 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebSiteShopping.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebSiteShopping.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\css\\style.css",
+      "PackagePath": "staticwebassets\\Login\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Login\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Login\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Ogani\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Ogani\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Ogani\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Ogani\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Ogani\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\Source\\jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets\\Ogani\\Source\\jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Ogani\\Source\\sass.zip"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\css\\style.css",
+      "PackagePath": "staticwebassets\\Ogani\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Ogani\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\language.png",
+      "PackagePath": "staticwebassets\\Ogani\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\logo.png",
+      "PackagePath": "staticwebassets\\Ogani\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\Ogani\\img\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\Ogani\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\Ogani\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\main.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Ogani\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_checkout.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_shop-details.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_shop-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_shop-grid.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_shop-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_shoping-cart.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_shoping-cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\Ogani\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\Ogani\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\bear.png",
+      "PackagePath": "staticwebassets\\ProductImg\\bear.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\bong.png",
+      "PackagePath": "staticwebassets\\ProductImg\\bong.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\koala.png",
+      "PackagePath": "staticwebassets\\ProductImg\\koala.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\mamut.png",
+      "PackagePath": "staticwebassets\\ProductImg\\mamut.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\momo.png",
+      "PackagePath": "staticwebassets\\ProductImg\\momo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\muc.png",
+      "PackagePath": "staticwebassets\\ProductImg\\muc.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\mun.png",
+      "PackagePath": "staticwebassets\\ProductImg\\mun.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\naga.png",
+      "PackagePath": "staticwebassets\\ProductImg\\naga.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\shiba.png",
+      "PackagePath": "staticwebassets\\ProductImg\\shiba.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\ProductImg\\tom.png",
+      "PackagePath": "staticwebassets\\ProductImg\\tom.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\cssAdmin\\DanhMucSp.css",
+      "PackagePath": "staticwebassets\\cssAdmin\\DanhMucSp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\cssAdmin\\DanhMucTk.css",
+      "PackagePath": "staticwebassets\\cssAdmin\\DanhMucTk.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\cssCustomer\\Shop.css",
+      "PackagePath": "staticwebassets\\cssCustomer\\Shop.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\WebSiteShopping\\WebSiteShopping\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebSiteShopping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebSiteShopping.props",
+      "PackagePath": "build\\WebSiteShopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebSiteShopping.props",
+      "PackagePath": "buildMultiTargeting\\WebSiteShopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebSiteShopping.props",
+      "PackagePath": "buildTransitive\\WebSiteShopping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
